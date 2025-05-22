@@ -1,1 +1,1 @@
-# Js-Tutorial
+# Js-Tutorial(ES6 & ES7+)
